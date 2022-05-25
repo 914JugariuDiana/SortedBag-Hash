@@ -1,0 +1,1 @@
+ADT SortedBag–using a hashtable with separate chaining in which the elements are stored. If an element appears multiple times, it will be stored multiple times in the hashtable.

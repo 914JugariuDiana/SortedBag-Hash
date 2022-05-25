@@ -1,0 +1,4 @@
+﻿  SortedBag.cpp
+C:\Users\Mihai\Desktop\School\DSA\SortedBag-Hash\SortedBag.h(21): warning C4091: 'typedef ': ignored on left of 'SortedBag::Node' when no variable is declared
+C:\Users\Mihai\Desktop\School\DSA\SortedBag-Hash\SortedBag.h(26): warning C4091: 'typedef ': ignored on left of 'SortedBag::HashNode' when no variable is declared
+  SortedBag-Hash.vcxproj -> C:\Users\Mihai\Desktop\School\DSA\SortedBag-Hash\x64\Debug\SortedBag-Hash.exe
